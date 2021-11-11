@@ -20,7 +20,7 @@ Will always return placement pos, but interior feature placement not guaranteed.
 ### Provides an area for interior structure placement
 
 ```json
-{"code:beards_and_shavers": {
+{"minecraft:beards_and_shavers": {
   "description": {
     "identifier": "..."
   },
